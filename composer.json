@@ -1,0 +1,19 @@
+{
+    "name": "jobindas82/report-gen",
+    "description": "Simple Laravel Package for generating Reports",
+    "type": "library",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jobin Das",
+            "email": "jobindas82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jobindas82\\reporter\\": "src/"
+        }
+    },
+    "require": {}
+}
